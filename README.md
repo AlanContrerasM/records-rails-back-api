@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+we are creating a new recordstore, json web token, jwt auth, database, simple record keeping app with rails api, and vue front end
 
-Things you may want to cover:
+* Ruby 2.7.2
+* Rails 6
 
-* Ruby version
+* Deployment instructions:
+1.bundle install
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
 
 * ...
